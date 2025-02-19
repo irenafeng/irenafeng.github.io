@@ -2,18 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: she/her • <a href="https://bit.ly/irenafeng-CV">CV</a> // <a href="https://www.bumc.bu.edu/mdphd">BUSM MD-PhD</a> • <a href="https://www.bumc.bu.edu/anatneuro/">Anatomy & Neurobiology</a> • <a href="https://www.bumc.bu.edu/anatneuro/roussarie-lab/">Roussarie Lab</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <center><p>😁✌</p></center>
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +23,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm an MD-PhD student at Boston University School of Medicine (started August 2021). Prior to this, I obtained my BS/BA in biological chemistry and chemistry at the University of Chicago, graduating in 2019 and working in the interim at the Rockefeller University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary research interests lie in the interplay between neurodevelopment and neurodegeneration, approaching this dynamic from a molecular and structural perspective. By exploring these processes as two sides of the same coin in the brain, I want to further study the mechanisms that define how they connect on a broader level to large-scale behaviors such as sleep.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find my CV above and [here](https://bit.ly/irenafeng-CV), and my contact info below!
