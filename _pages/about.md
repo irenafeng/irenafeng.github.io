@@ -30,6 +30,6 @@ latest_posts:
 
 Hi! I'm an MD-PhD student at Boston University School of Medicine (started August 2021). Prior to this, I obtained my BS/BA in biological chemistry and chemistry at the University of Chicago, graduating in 2019 and working in the interim at the Rockefeller University.
 
-My primary research interests lie in the interplay between neurodevelopment and neurodegeneration, approaching this dynamic from a molecular and structural perspective. By exploring these processes as two sides of the same coin in the brain, I want to further study the mechanisms that define how they connect on a broader level to large-scale behaviors such as sleep.
+I study Alzheimer's disease, specifically the neurons in the brain that show the first signs of degeneration: layer II neurons of the entorhinal cortex. My overarching research interests currently lie in the interplay between neurodegeneration and neurodevelopment, approaching this dynamic from a molecular and structural perspective. By exploring these processes as two sides of the same coin in the brain, I want to further study the mechanisms that define how they connect on a broader level to large-scale behaviors.
 
 You can find my CV above and [here](https://bit.ly/irenafeng-CV), and my contact info below!
