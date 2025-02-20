@@ -250,6 +250,9 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.pmcid %}
+        <a href=https://pmc.ncbi.nlm.nih.gov/articles/{{ entry.pmcid }}" class="btn btn-sm z-depth-0" role="button">PMCID</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -290,6 +293,8 @@
                 data-pmid="{{ entry.pmid }}"
               {% elsif entry.isbn %}
                 data-isbn="{{ entry.isbn }}"
+              {% elsif entry.pmcid %}
+                data-pmcid="{{ entry.pmcid }}"
               {% endif %}
             ></span>
           {% endif %}
@@ -300,6 +305,8 @@
                 data-id="{{ entry.dimensions }}"
               {% elsif entry.doi %}
                 data-doi="{{ entry.doi }}"
+              {% elsif entry.pmcid %}
+                data-pmcid="{{ entry.pmcid }}"
               {% else %}
                 data-pmid="{{ entry.pmid }}"
               {% endif %}
