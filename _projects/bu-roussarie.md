@@ -26,6 +26,6 @@ Rotation, Summer 2022: My rotation project focused on the development of an *in 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/poster-roussarie24-APSA.jpg" title="Roussarie Lab, APSA 2024." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/poster-roussarie24-APSA.jpg" title="Roussarie Lab, APSA 2024." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

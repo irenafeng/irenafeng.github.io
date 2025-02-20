@@ -22,6 +22,6 @@ I worked as a research assistant in the Bishop Lab at the University of Chicago.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/poster-bishop-katen.jpg" title="Bishop Lab, Katen Scholars 2017." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/poster-bishop-katen.jpg" title="Bishop Lab, Katen Scholars 2017." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
