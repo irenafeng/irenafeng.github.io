@@ -102,6 +102,41 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-lung-development",
+          title: 'lung development',
+          description: "Boston University, Summer Intern",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bu-ramirez/";
+            },},{id: "projects-selective-neurodegeneration",
+          title: 'selective neurodegeneration',
+          description: "Boston University School of Medicine, PhD Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bu-roussarie/";
+            },},{id: "projects-epigenetics",
+          title: 'epigenetics',
+          description: "Boston University School of Medicine, Rotation Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bu-serrano/";
+            },},{id: "projects-circadian-rhythm",
+          title: 'circadian rhythm',
+          description: "Rockefeller University, Research Assistant",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ru-young/";
+            },},{id: "projects-gene-editing",
+          title: 'gene editing',
+          description: "University of Chicago, Research Assistant",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/uchicago-bishop/";
+            },},{id: "projects-developmental-neuroscience",
+          title: 'developmental neuroscience',
+          description: "University of Chicago, Research Assistant",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/uchicago-zhang/";
+            },},{id: "projects-dna-repair",
+          title: 'DNA repair',
+          description: "University of Iowa, Summer Intern",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/uiowa-smolikove/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
