@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published in *Genetics in Medicine* - "[Variants in ADD1 cause intellectual disability, corpus callosum dysgenesis, and ventriculomegaly in humans](https://gimjournal.org/article/S1098-3600(21)04742-0)"
+Published in *Genetics in Medicine* - "[Variants in ADD1 cause intellectual disability, corpus callosum dysgenesis, and ventriculomegaly in humans](https://doi.org/10.1016/j.gim.2021.09.014)"

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published in *Frontiers in Synaptic Neuroscience* - "[Molecular mechanisms of synaptogenesis](https://www.frontiersin.org/articles/10.3389/fnsyn.2022.939793)"
+Published in *Frontiers in Synaptic Neuroscience* - "[Molecular mechanisms of synaptogenesis](https://doi.org/10.3389/fnsyn.2022.939793)"
