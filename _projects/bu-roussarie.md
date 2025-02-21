@@ -1,6 +1,6 @@
 ---
 layout: page
-title: selective neurodegeneration
+title: selective neuronal vulnerability
 description: Boston University School of Medicine, PhD Student
 importance: 1
 category: graduate
