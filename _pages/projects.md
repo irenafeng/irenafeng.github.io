@@ -5,7 +5,7 @@ permalink: /projects/
 description: my scientific portfolio
 nav: true
 nav_order: 3
-display_categories: [graduate, undergraduate, high school]
+display_categories: [graduate, postbac, undergraduate, high school]
 horizontal: false
 ---
 
