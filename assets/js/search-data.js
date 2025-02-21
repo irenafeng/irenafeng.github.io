@@ -107,8 +107,8 @@ ninja.data = [{
           description: "Boston University, Summer Intern",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bu-ramirez/";
-            },},{id: "projects-selective-neurodegeneration",
-          title: 'selective neurodegeneration',
+            },},{id: "projects-selective-neuronal-vulnerability",
+          title: 'selective neuronal vulnerability',
           description: "Boston University School of Medicine, PhD Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bu-roussarie/";
